@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Fadly
 
 ## About Me
-🚀 Software Developer passionate about Frontend, Backend and Machine Learning
-🌱 Currently learning React, Vue
+= 🚀 Software Developer passionate about Frontend, Backend and Machine Learning
+- 🌱 Currently learning React, Vue
 
 ## 🛠 Tech Stack
 - Languages: JavaScript, PHP, Python
