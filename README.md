@@ -8,7 +8,7 @@
 - Languages: JavaScript, PHP, Python, Dart
 - Frontend: React, Laravel
 - Backend: Node.js, Laravel
-- Mobuke: Flutter
+- Mobile: Flutter
 - Database: MongoDB, MySQL
 
 ## 📊 GitHub Stats
