@@ -5,9 +5,10 @@
 - 🌱 Currently learning React, Vue
 
 ## 🛠 Tech Stack
-- Languages: JavaScript, PHP, Python
+- Languages: JavaScript, PHP, Python, Dart
 - Frontend: React, Laravel
 - Backend: Node.js, Laravel
+- Mobuke: Flutter
 - Database: MongoDB, MySQL
 
 ## 📊 GitHub Stats
