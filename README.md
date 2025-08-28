@@ -6,8 +6,8 @@
 
 ## 🛠 Tech Stack
 - Languages: JavaScript, PHP, Python, Dart
-- Frontend: React, Laravel
-- Backend: Node.js, Laravel
+- Frontend: React
+- Backend: Node.js
 - Mobile: Flutter
 - Database: MongoDB, MySQL
 
